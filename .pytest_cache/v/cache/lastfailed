@@ -1,0 +1,5 @@
+{
+  "test_isort.py::test_inconsistent_behavior_in_python_2_and_3_issue_479": true,
+  "test_isort.py::test_known_pattern_path_expansion": true,
+  "test_isort.py::test_new_lines_are_preserved": true
+}
